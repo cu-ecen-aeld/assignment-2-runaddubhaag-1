@@ -31,3 +31,4 @@ search_dir_recursively() {
 
 search_dir_recursively $1 $2
 echo "The number of files are $num_of_files_searched and the number of matching lines are $number_of_matches"
+
